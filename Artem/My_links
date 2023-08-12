@@ -1,1 +1,12 @@
+1. Линейная регрессия (показывал группе 31.07):
 https://colab.research.google.com/drive/13RX3IoXmeuri0rlNb17cUZSstQty-0Ju?usp=sharing 
+
+2. Полиномиальная регрессия (показывал группе 05.08.2023):
+https://colab.research.google.com/drive/1xaxVlYx4FShDrJu9tONUhWdlbAOiocia?usp=sharing
+
+3. Четыре НС (12.08.2023):
+https://colab.research.google.com/drive/13RX3IoXmeuri0rlNb17cUZSstQty-0Ju?usp=sharing 
+
+4. AutoML (12.08.2023):
+Три теста с разными тюнерами для прогноза MNO и три аналогичных теста для прогноза Dose
+https://colab.research.google.com/drive/17cvb0ZCHKfMUEtaxundIzz_0mhtJmtvp?usp=sharing
